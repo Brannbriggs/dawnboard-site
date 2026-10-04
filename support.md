@@ -38,10 +38,9 @@ weather, and **📅 Connect calendars**. Both are also in ⋯ › Admin later.
 - **FaceTime for SOS:** ⋯ › Admin › Family profiles › ✏️ Edit on a parent ›
   **FaceTime (phone or email)**. Dawnboard shows only that one is set and
   whether it is a phone number or an email, never the number itself.
-- **Joining a family someone already set up?** Family sync between
-  devices is not switched on in this version yet, so each iPad keeps its own
-  family. When it arrives, you will join by invitation from ⋯ › Admin ›
-  ☁️ Family sync instead of setting up a new family.
+- **Joining a family someone already set up?** Don't set up a new one:
+  ask them to send you an invitation (see "Sharing Dawnboard with the other
+  parent" below) and open it on your device.
 
 ## My calendars aren't showing
 
@@ -67,14 +66,23 @@ account to the iPad) so it appears on the family iPad.
 
 ## Sharing Dawnboard with the other parent
 
-**Family sync is not switched on in this version yet.** Each iPad keeps its
-own copy of the family, and ⋯ › Admin › ☁️ Family sync says **⏸ Off**.
+Dawnboard keeps your family's devices in step through iCloud. Each person
+uses their own Apple Account; there is no Dawnboard account.
 
-When it arrives, it will work through iCloud: each person uses their own
-Apple Account (there is no Dawnboard account), the parent who set Dawnboard
-up sends an invitation from ⋯ › Admin › ☁️ Family sync, and the other parent
-accepts it on their device. Until then, to move a family to another iPad,
-save a backup on one and restore it on the other (see below).
+1. Make sure each device is signed in to iCloud (Settings › your name).
+2. On the iPad where you set Dawnboard up: ⋯ › Admin › ☁️ Family sync ›
+   **👪 Invite the other parent**, and send the invitation (Messages or
+   Mail).
+3. They install Dawnboard on their iPhone or iPad, then open the
+   invitation there. Dawnboard opens and joins your family.
+
+Changes on one device show up on the others within a few moments when they
+are online. ⋯ › Admin › ☁️ Family sync always says in words how it is
+going: ✓ Synced, ↑ Waiting to send, ⏸ Off or ⚠ Problem.
+
+Your family's data is kept in the iCloud of the parent who set Dawnboard
+up, and counts toward their iCloud storage. If that storage is full,
+sync stops for everyone and the Family sync card says so.
 
 ## I forgot the parent PIN
 
@@ -105,9 +113,10 @@ details are in our [privacy policy](privacy.html).
 
 ## Backing up and restoring your family's information
 
-In this version family sync is off, so **a backup is the only copy** of your
-family's chores, stars, notes and routines if the iPad is lost, broken or reset.
-Make one now and then, and after any big change.
+Family sync keeps a copy of your family's information in iCloud. A backup is
+a second copy that **you** keep: it is the only copy if you don't use family
+sync, and it protects you if the iCloud copy is ever deleted. Make one now
+and then, and after any big change.
 
 **Save a backup:** ⋯ › Admin › 💾 Backup › **Save a backup**. The iPad opens
 its share sheet: choose **Save to Files** (iCloud Drive is a good place),
@@ -196,7 +205,7 @@ profile is blocking it; type your town instead.
 
 A kid taps 🆘 SOS on the wall iPad. The iPad shows big FaceTime buttons for the parents straight away, and (when family sync is on) every family device gets a Time Sensitive notification. A parent taps "I've got it" to clear it everywhere sync reaches.
 
-**In this version family sync is off, so an SOS stays on the iPad where it was tapped:** no phone is told, and the SOS screen says so. If two kids tap SOS at nearly the same time, both show (the newest on screen, both in the history).
+**If family sync isn't set up (or this iPad isn't signed in to iCloud), an SOS stays on the iPad where it was tapped:** no phone is told, and the SOS screen says so. If two kids tap SOS at nearly the same time, both show (the newest on screen, both in the history).
 
 **SOS is not an emergency service and does not call 911. It notifies your family's devices through iCloud, which Apple does not guarantee to deliver; a phone where Dawnboard was swiped closed may not be told. For an emergency, call your local emergency number.**
 
