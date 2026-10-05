@@ -5,7 +5,7 @@ title: Dawnboard support
 # Dawnboard support
 
 Need help? Email **dawnboard.app@gmail.com**. Please say which
-iPad model and iPadOS version you have (Settings › General › About).
+iPad or iPhone model and iPadOS/iOS version you have (Settings › General › About).
 
 Dawnboard has no accounts and no servers, so we cannot see your family's
 information, and we will never ask for your Apple Account password.
@@ -32,8 +32,9 @@ weather, and **📅 Connect calendars**. Both are also in ⋯ › Admin later.
   colours), 🌍 Home & weather (your town), 📅 Calendars, and 🆘 SOS & this
   device (whose iPad this is). To walk through the welcome again: ⋯ › Admin ›
   Family profiles › **👋 Welcome setup**.
-- **A parent PIN** is not part of setup. About a day later, Admin offers
-  one; you can also set it any time in ⋯ › Admin › Admin PIN. With a PIN set,
+- **A parent PIN** is the last of the welcome's optional extras (4 to 8
+  digits, typed twice). Skipped it? About a day later Admin offers it again,
+  and you can set it any time in ⋯ › Admin › Admin PIN. With a PIN set,
   Admin, grown-up changes and answering an SOS ask for it.
 - **FaceTime for SOS:** ⋯ › Admin › Family profiles › ✏️ Edit on a parent ›
   **FaceTime (phone or email)**. Dawnboard shows only that one is set and
@@ -203,7 +204,9 @@ profile is blocking it; type your town instead.
 
 ## What does SOS do?
 
-A kid taps 🆘 SOS on the wall iPad. The iPad shows big FaceTime buttons for the parents straight away, and (when family sync is on) every family device gets a Time Sensitive notification. A parent taps "I've got it" to clear it everywhere sync reaches.
+A kid taps 🆘 SOS on the wall iPad. The iPad shows big FaceTime buttons for the parents straight away, and (when family sync is on) the family's other devices can get a Time Sensitive notification. Delivery through iCloud is not guaranteed, and Focus or notification settings can hide it. SOS is not an emergency service and does not call 911. A parent taps "I've got it" to clear it everywhere sync reaches.
+
+**The SOS button is on the family's iPad.** On an iPhone it is off at first, so it can't go off in a pocket; the phone still gets SOS notifications. To show it on one phone (a kid's, say): ⋯ › Admin › 🆘 SOS & this device.
 
 **If family sync isn't set up (or this iPad isn't signed in to iCloud), an SOS stays on the iPad where it was tapped:** no phone is told, and the SOS screen says so. If two kids tap SOS at nearly the same time, both show (the newest on screen, both in the history).
 

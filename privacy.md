@@ -4,9 +4,9 @@ title: Dawnboard privacy policy
 
 # Dawnboard privacy policy
 
-**Effective date: 4 October 2026**
+**Effective date: 5 October 2026**
 
-Dawnboard is a family organizer for iPad. This page explains, in plain
+Dawnboard is a family organizer for iPad and iPhone. This page explains, in plain
 language, what happens to your family's information when you use it.
 
 The short version: **we do not collect it.** Dawnboard has no accounts, no
@@ -28,8 +28,8 @@ the person using the app, usually a parent setting it up for the family.
 - It does not track where your device is. Your location is not tracked;
   only your approximate area, rounded to about 1 km, is sent to Apple — and
   to the US National Weather Service for US towns — to get the weather. The
-  iPad's approximate location is read only when a parent taps "Use this
-  iPad's location", once each time (see below).
+  device's approximate location is read only when a parent taps "Use this
+  iPad's location" (or "this iPhone's" on a phone), once each time (see below).
 
 ## Where your information lives
 
@@ -184,16 +184,16 @@ Because we do not hold any of your information, there is nothing for us to
 send you or delete for you. You are in control of all of it:
 
 - **Change or remove something:** edit or delete it in the app.
-- **Stop calendar access:** iPad Settings › Privacy & Security › Calendars ›
+- **Stop calendar access:** Settings (on the iPad or iPhone) › Privacy & Security › Calendars ›
   Dawnboard.
-- **Stop location access:** iPad Settings › Privacy & Security › Location
+- **Stop location access:** Settings (on the iPad or iPhone) › Privacy & Security › Location
   Services › Dawnboard › Never. Dawnboard only ever asked once per tap, so
   this changes nothing until someone taps "Use this iPad's location" again.
   To change the saved location, search for a town in Admin › Home & weather.
 - **Stop weather requests:** clear the town in Admin › Home & weather.
 - **Delete everything on one device:** delete the Dawnboard app from that
   device. This removes all of its storage on that device.
-- **Delete Dawnboard's information from iCloud:** in iPad Settings, tap your
+- **Delete Dawnboard's information from iCloud:** in Settings on the iPad or iPhone, tap your
   name › iCloud › Manage Account Storage (on some versions, "Manage
   Storage") › Dawnboard › Delete Data. This removes the iCloud copy. It does
   not erase what is already stored on each device: to remove that, delete
