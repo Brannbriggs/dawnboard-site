@@ -4,7 +4,7 @@ title: Daywall support
 
 # Daywall support
 
-Need help? Email **dawnboard.app@gmail.com**. Please say which
+Need help? Email **branndonbriggs@gmail.com**. Please say which
 iPad or iPhone model and iPadOS/iOS version you have (Settings › General › About).
 
 Daywall has no accounts and no servers, so we cannot see your family's
@@ -216,4 +216,4 @@ The parent whose Apple ID the wall iPad uses can't be FaceTimed from that iPad (
 
 ## Something else
 
-Email **dawnboard.app@gmail.com**.
+Email **branndonbriggs@gmail.com**.

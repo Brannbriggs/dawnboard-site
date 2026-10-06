@@ -222,4 +222,4 @@ change the app's privacy label on the App Store.
 
 ## Contact
 
-Questions about privacy: **dawnboard.app@gmail.com**
+Questions about privacy: **branndonbriggs@gmail.com**
