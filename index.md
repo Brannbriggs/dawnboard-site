@@ -1,8 +1,8 @@
 ---
-title: Dawnboard
+title: Daywall
 ---
 
-# Dawnboard
+# Daywall
 
 A family organizer for iPad. No accounts, no servers, no analytics, no ads.
 
