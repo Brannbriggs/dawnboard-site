@@ -1,8 +1,8 @@
 ---
-title: Daywall
+title: Bunchly
 ---
 
-# Daywall
+# Bunchly
 
 A family organizer for iPad. No accounts, no servers, no analytics, no ads.
 

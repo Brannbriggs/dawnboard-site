@@ -1,23 +1,23 @@
 ---
-title: Daywall privacy policy
+title: Bunchly privacy policy
 ---
 
-# Daywall privacy policy
+# Bunchly privacy policy
 
 **Effective date: 5 October 2026**
 
-Daywall is a family organizer for iPad and iPhone. This page explains, in plain
+Bunchly is a family organizer for iPad and iPhone. This page explains, in plain
 language, what happens to your family's information when you use it.
 
-The short version: **we do not collect it.** Daywall has no accounts, no
+The short version: **we do not collect it.** Bunchly has no accounts, no
 servers, no analytics and no ads. Your family's information stays on your
 devices and in your own iCloud, where we cannot see it.
 
-"We", "us" and "the developer" mean the individual who publishes Daywall on
-the App Store, named as the seller on Daywall's App Store page. "You" means
+"We", "us" and "the developer" mean the individual who publishes Bunchly on
+the App Store, named as the seller on Bunchly's App Store page. "You" means
 the person using the app, usually a parent setting it up for the family.
 
-## What Daywall does not do
+## What Bunchly does not do
 
 - It does not ask you to create an account or sign in.
 - It does not send your family's information to us. We do not run any
@@ -35,20 +35,20 @@ the person using the app, usually a parent setting it up for the family.
 
 ### On your device
 
-Everything you enter in Daywall (family members' names, chores, stars,
+Everything you enter in Bunchly (family members' names, chores, stars,
 rewards, routines, habits, notes, drawings, heights and other
-memories, countdowns, settings and PINs) is stored in Daywall's own storage
+memories, countdowns, settings and PINs) is stored in Bunchly's own storage
 on the device.
 
 If you use iCloud Backup or back up your iPad to a computer, Apple's backup
-includes Daywall's storage, as it does for most apps, except two small
+includes Bunchly's storage, as it does for most apps, except two small
 records that say which device this is (and whose Apple ID it uses), so a
 backup restored onto another iPad does not pretend to be this one. That
 backup is handled by Apple under your Apple Account, not by us.
 
 ### In your own iCloud (when sync is on)
 
-To keep your family's devices in step, Daywall saves its information in
+To keep your family's devices in step, Bunchly saves its information in
 **your own iCloud account**, using Apple's CloudKit service, and shares it
 only with the family members you invite through iCloud. That information
 is held by Apple for you, under Apple's privacy policy
@@ -59,24 +59,24 @@ cannot read, change or delete it, and we cannot hand it to anyone.
 ## SOS alerts and FaceTime numbers
 
 SOS alerts (who tapped, when, who answered) are stored in your family's iCloud with the rest of your
-Daywall data. When family sync is off, an SOS stays on the device where it was tapped, and the app says so.
+Bunchly data. When family sync is off, an SOS stays on the device where it was tapped, and the app says so.
 A parent's FaceTime number or email is stored on your family's devices and in your iCloud
 and is used only to start a FaceTime call from your own device. Once saved, it is not shown on screen again
 (the app shows only whether a number or an email is set). It is included in the family backup file you
 export, so a restore keeps the call buttons. We run no server and receive none of it.
 
-SOS is not an emergency service and does not call 911. It notifies your family's devices through iCloud, which Apple does not guarantee to deliver; a phone where Daywall was swiped closed may not be told. For an emergency, call your local emergency number.
+SOS is not an emergency service and does not call 911. It notifies your family's devices through iCloud, which Apple does not guarantee to deliver; a phone where Bunchly was swiped closed may not be told. For an emergency, call your local emergency number.
 
 ## Your calendars
 
-With your permission, Daywall reads the calendars already on your iPad
+With your permission, Bunchly reads the calendars already on your iPad
 (including calendars from other accounts you have added in the iPad's
 Settings) so it can show them on screen.
 
-- Daywall only **reads** events. It never creates, changes or deletes them.
-- Events are read on the device and shown there. Daywall does not send your
+- Bunchly only **reads** events. It never creates, changes or deletes them.
+- Events are read on the device and shown there. Bunchly does not send your
   events anywhere, and does not save copies of them in iCloud.
-- Daywall does save your **choices about** calendars, with the rest of its
+- Bunchly does save your **choices about** calendars, with the rest of its
   settings: each calendar's name, which ones to show, whose they are and
   their colours, and, if you assign a single event to a person, a reference
   to that event (not its contents) for about two months.
@@ -88,20 +88,20 @@ that location to Apple Maps. That only happens when you tap it.
 
 ## Your photos
 
-Daywall uses the iPad's own photo picker. You choose which photos to add;
-Daywall never gets access to the rest of your photo library. It keeps a
+Bunchly uses the iPad's own photo picker. You choose which photos to add;
+Bunchly never gets access to the rest of your photo library. It keeps a
 smaller copy of each photo you choose, in its own storage, to show them on
-screen. Removing a photo in Daywall deletes that copy.
+screen. Removing a photo in Bunchly deletes that copy.
 
 ## Weather, your location and the town search: what leaves your device
 
-To show the forecast, Daywall needs to know roughly where you live. A
+To show the forecast, Bunchly needs to know roughly where you live. A
 parent tells it in one of two ways, in Admin › Home & weather (or when first
 setting up):
 
-- **Use this iPad's location.** Daywall asks the iPad, once, for its
+- **Use this iPad's location.** Bunchly asks the iPad, once, for its
   **approximate** location. iPadOS asks your permission first ("Allow While
-  Using App", "Allow Once" or "Don't Allow"). Daywall asks only for
+  Using App", "Allow Once" or "Don't Allow"). Bunchly asks only for
   approximate location (iPadOS's "Precise" setting does not change that),
   only while the app is open, and only when the button is tapped: it does
   not track the iPad, check again later, or use location in the background.
@@ -113,24 +113,24 @@ setting up):
 - **Search for your town.** You type its name and pick it from a list.
 
 Either way, the weather services below are only ever sent that saved
-location, rounded to about 1 km. Daywall never sends names or family
+location, rounded to about 1 km. Bunchly never sends names or family
 details.
 
 - **Apple Weather (WeatherKit).** The forecast comes from Apple's weather
-  service. Daywall sends it the rounded latitude and longitude of your
+  service. Bunchly sends it the rounded latitude and longitude of your
   saved location. This is handled by Apple under Apple's privacy policy
   ([apple.com/legal/privacy](https://www.apple.com/legal/privacy/)).
 - **The US National Weather Service, for US towns only.** If Apple's weather
   service cannot be reached or refuses the request, and the town you saved
   is in the United States (or Puerto Rico, the US Virgin Islands, Guam, the
   Northern Mariana Islands or American Samoa, which that service also
-  covers), Daywall asks the US National Weather Service (api.weather.gov,
+  covers), Bunchly asks the US National Weather Service (api.weather.gov,
   part of NOAA, a US government agency) instead. It sends the same rounded
-  latitude and longitude. Each request names the app ("Daywall") and its
+  latitude and longitude. Each request names the app ("Bunchly") and its
   support contact, as that service asks apps to do. Which country your town
   is in is the one Apple's town search (or the iPad's location lookup)
   reported when it was saved. For a town outside those places, or one whose
-  country Daywall does not know, Daywall never contacts the National
+  country Bunchly does not know, Bunchly never contacts the National
   Weather Service.
 - **Finding your town (Apple).** When you search for your town in Admin, the
   letters you type are sent to Apple's geocoding service, part of iOS, so
@@ -138,7 +138,7 @@ details.
   use the iPad's location, the rounded location is sent to the same Apple
   service to get the town's name, only at that moment.
 
-Daywall keeps a copy of the latest forecast on the device so weather still
+Bunchly keeps a copy of the latest forecast on the device so weather still
 shows when you are offline, and a count of how many times this device has
 asked Apple's weather service this month. Both stay on the device; neither
 is sent anywhere.
@@ -149,20 +149,20 @@ Their own privacy policies apply: Apple's (above) and the National Weather
 Service's ([weather.gov/privacy](https://www.weather.gov/privacy)). We do
 not control either service, and neither is acting on our behalf.
 
-If you never set a location, Daywall never asks for weather. The saved
-location is part of Daywall's settings, so it is kept on the device and,
+If you never set a location, Bunchly never asks for weather. The saved
+location is part of Bunchly's settings, so it is kept on the device and,
 when sync is on, in your own iCloud, like the family's name; it is never sent
 to us.
 
-The version of Daywall that developers run in a desktop web browser while
+The version of Bunchly that developers run in a desktop web browser while
 building the app uses a different public service, Open-Meteo, for weather
 and the town search. **The iPad app never contacts Open-Meteo.**
 
 ## Subscriptions and payments
 
-The Daywall Family subscription is sold and billed by Apple through the App
+The Bunchly Family subscription is sold and billed by Apple through the App
 Store. Your payment details, Apple Account and purchase history stay with
-Apple; we do not receive them. Daywall asks Apple, on your device, whether
+Apple; we do not receive them. Bunchly asks Apple, on your device, whether
 your family's subscription is active, and keeps that status (the plan and
 its end date, never payment details) on your devices and, with family sync,
 in your own iCloud, so the other parent's devices know the family is
@@ -170,7 +170,7 @@ covered. Apple's own privacy policy covers what Apple does with purchases.
 
 ## Children's privacy
 
-Daywall is a general-audience app made for families. Parents set it up,
+Bunchly is a general-audience app made for families. Parents set it up,
 and children use parts of it, such as chores, routines, stars, drawing and
 games.
 
@@ -185,7 +185,7 @@ contain no information about any person beyond an approximate place; and, if fam
 going to the family's own iCloud, which Apple stores and the developer
 cannot read.
 
-Daywall has no chat, no messaging, no public sharing and no advertising.
+Bunchly has no chat, no messaging, no public sharing and no advertising.
 Settings can be locked with a parent PIN.
 
 ## Your choices and deleting your data
@@ -195,28 +195,28 @@ send you or delete for you. You are in control of all of it:
 
 - **Change or remove something:** edit or delete it in the app.
 - **Stop calendar access:** Settings (on the iPad or iPhone) › Privacy & Security › Calendars ›
-  Daywall.
+  Bunchly.
 - **Stop location access:** Settings (on the iPad or iPhone) › Privacy & Security › Location
-  Services › Daywall › Never. Daywall only ever asked once per tap, so
+  Services › Bunchly › Never. Bunchly only ever asked once per tap, so
   this changes nothing until someone taps "Use this iPad's location" again.
   To change the saved location, search for a town in Admin › Home & weather.
 - **Stop weather requests:** clear the town in Admin › Home & weather.
-- **Delete everything on one device:** delete the Daywall app from that
+- **Delete everything on one device:** delete the Bunchly app from that
   device. This removes all of its storage on that device.
-- **Delete Daywall's information from iCloud:** in Settings on the iPad or iPhone, tap your
+- **Delete Bunchly's information from iCloud:** in Settings on the iPad or iPhone, tap your
   name › iCloud › Manage Account Storage (on some versions, "Manage
-  Storage") › Daywall › Delete Data. This removes the iCloud copy. It does
+  Storage") › Bunchly › Delete Data. This removes the iCloud copy. It does
   not erase what is already stored on each device: to remove that, delete
   the app on each device as well.
 - **Stop sharing with another family member:** stop sharing through iCloud
-  in Daywall's sharing settings, or remove the person from the share in
+  in Bunchly's sharing settings, or remove the person from the share in
   iCloud.
 - **Backups:** your iPad's backups are kept by Apple or your computer and
-  are deleted through Apple's settings or the computer, not by Daywall.
+  are deleted through Apple's settings or the computer, not by Bunchly.
 
 ## Security
 
-Daywall's information on the device is protected by the iPad's own
+Bunchly's information on the device is protected by the iPad's own
 security and passcode. Information in iCloud is protected by Apple. Weather
 requests are sent over encrypted (HTTPS) connections, and the town search
 and the iPad's location go through Apple's own system services. The parent PIN
@@ -225,7 +225,7 @@ feature, so do not reuse an important PIN or passcode for it.
 
 ## Changes to this policy
 
-If Daywall ever starts handling information differently, we will update
+If Bunchly ever starts handling information differently, we will update
 this page and change the effective date at the top before that version of
 the app is released. A change that means collecting information would also
 change the app's privacy label on the App Store.
