@@ -158,6 +158,16 @@ The version of Daywall that developers run in a desktop web browser while
 building the app uses a different public service, Open-Meteo, for weather
 and the town search. **The iPad app never contacts Open-Meteo.**
 
+## Subscriptions and payments
+
+The Daywall Family subscription is sold and billed by Apple through the App
+Store. Your payment details, Apple Account and purchase history stay with
+Apple; we do not receive them. Daywall asks Apple, on your device, whether
+your family's subscription is active, and keeps that status (the plan and
+its end date, never payment details) on your devices and, with family sync,
+in your own iCloud, so the other parent's devices know the family is
+covered. Apple's own privacy policy covers what Apple does with purchases.
+
 ## Children's privacy
 
 Daywall is a general-audience app made for families. Parents set it up,

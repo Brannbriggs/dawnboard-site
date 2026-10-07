@@ -214,6 +214,28 @@ A kid taps 🆘 SOS on the wall iPad. The iPad shows big FaceTime buttons for th
 
 The parent whose Apple ID the wall iPad uses can't be FaceTimed from that iPad (FaceTime can't call itself). With family sync on and shared, their phone gets the notification instead; with sync off, the screen says so plainly: go and find them.
 
+## The Daywall Family subscription
+
+Daywall is free for 2 months, then **$4.99 a month or $39.99 a year**,
+billed by Apple. You confirm it with Apple when the trial starts, and your
+Apple Account is charged when the trial ends unless you cancel at least
+24 hours before.
+
+- **Where:** ⋯ › Admin › ⭐ Daywall Family. A grown-up check comes first.
+- **One per family.** The device that set up the family subscribes; the
+  other parent's phone, once it has joined through family sync, is covered
+  too. Family Sharing also covers your Apple family group.
+- **Cancel or change plan:** Settings › your name › **Subscriptions** ›
+  Daywall, or **Manage or cancel** in the same Admin section (on the
+  device that bought it).
+- **New phone or reinstalled?** ⋯ › Admin › ⭐ Daywall Family › **Restore
+  purchases**.
+- **If it ends:** nothing is deleted. 🆘 SOS keeps working, and you can
+  still see everything and make a backup. Adding or changing things, the
+  weather, reminders and the games stop until you subscribe again, and
+  then everything is as you left it.
+- **Refunds** are handled by Apple: [reportaproblem.apple.com](https://reportaproblem.apple.com).
+
 ## Something else
 
 Email **branndonbriggs@gmail.com**.
